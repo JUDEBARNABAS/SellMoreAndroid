@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Arduino Uno / Mega official USB VID (0x2341 = 9025) -->
+    <usb-device vendor-id="9025" />
+    <!-- Silicon Labs CP210x UART Bridge (0x10C4 = 4292) -->
+    <usb-device vendor-id="4292" />
+    <!-- WinChipHead CH340 / CH341 USB-Serial (0x1A86 = 6790) -->
+    <usb-device vendor-id="6790" />
+    <!-- FTDI FT232R / FT2232 USB-UART (0x0403 = 1027) -->
+    <usb-device vendor-id="1027" />
+    <!-- Espressif ESP32-S2 / S3 / C3 Native USB JTAG/Serial (0x303A = 12346) -->
+    <usb-device vendor-id="12346" />
+</resources>

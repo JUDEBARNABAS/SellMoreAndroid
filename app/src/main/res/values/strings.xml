@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SellMore</string>
+    <string name="kiosk_brand_title">SellMore Automated Yogurt Dispenser</string>
+    <string name="kiosk_machine_id">SM-KLA-042</string>
+    <string name="kiosk_location">KDIS Innovation Hub, Level 2 - Kampala, Uganda</string>
+    <string name="screensaver_headline">Fresh Probiotic Yogurt, Sealed &amp; Chilled</string>
+    <string name="screensaver_subtitle">Tap anywhere to order your 330ml bottle</string>
+    <string name="action_add_to_cart">Add to Cart</string>
+    <string name="action_proceed_payment">Proceed to QR Payment</string>
+    <string name="action_confirm_phone_qr">Confirm Phone QR Payment</string>
+    <string name="action_voice_order">Voice Order</string>
+    <string name="action_screensaver">Screensaver</string>
+    <string name="action_admin_portal">Admin</string>
+    <string name="error_insufficient_balance">Insufficient account balance for this order.</string>
+    <string name="error_out_of_stock">This slot is currently out of stock.</string>
+    <string name="error_invalid_pin">Incorrect maintenance PIN. Default is 1234.</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "SellMore",
+  "description": "SellMore Automated Fresh Yogurt Dispenser Kiosk & ESP32 Hardware Controller (USB-OTG, Bluetooth SPP, Wi-Fi HTTP)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
